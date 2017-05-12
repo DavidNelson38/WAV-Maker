@@ -3,4 +3,4 @@ Console program that allows the user to compose a song, which is then written to
 
 Please refer to the README.txt before using the program. 
 
-WAV-Maker was developed in the Visual Studio Community 2015 IDE.
+IDE: Visual Studio Community 2015
